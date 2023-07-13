@@ -1,5 +1,5 @@
 # human-resources-project
-Summary of Findings
+Summary of Findings::
 There are more male employees
 White race is the most dominant while Native Hawaiian and American Indian are the least dominant.
 The youngest employee is 20 years old and the oldest is 57 years old
